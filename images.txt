@@ -1,2 +1,1 @@
-xhongc/music_tag_web:latest
-nginx
+syncthing/syncthing
