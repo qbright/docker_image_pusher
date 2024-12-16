@@ -1,1 +1,2 @@
 syncthing/syncthing
+deluan/navidrome
