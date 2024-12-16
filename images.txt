@@ -1,2 +1,3 @@
 syncthing/syncthing
 deluan/navidrome
+jellyfin/jellyfin
