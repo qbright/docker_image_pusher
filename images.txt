@@ -1,4 +1,4 @@
 syncthing/syncthing
 deluan/navidrome
 jellyfin/jellyfin
-gz1903/roonserver
+gz1903/roonserver:2.48.1517
