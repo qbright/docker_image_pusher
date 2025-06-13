@@ -3,4 +3,3 @@ deluan/navidrome
 jellyfin/jellyfin
 gz1903/roonserver:2.48.1517
 mysql:8.4
-altran1502/immich-server:1.134.0
