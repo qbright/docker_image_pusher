@@ -3,4 +3,4 @@
 #jellyfin/jellyfin
 #gz1903/roonserver:2.48.1517
 #altran1502/immich-server:v1.134.0
-portainer/portainer-ce
+portainer/portainer-ce:lts
