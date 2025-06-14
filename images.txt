@@ -5,4 +5,4 @@
 #altran1502/immich-server:v1.134.0
 #portainer/portainer-ce:lts
 
-ghcr.io/immich-app/immich-server:v1.134.0-release
+ghcr.io/immich-app/immich-server:v1.134.0
