@@ -18,7 +18,8 @@
 #ghcr.io/immich-app/immich-machine-learning:v1.134.0
 
 #ghcr.io/immich-app/postgres:15-vectorchord0.4.2-pgvectors0.2.0
-minimworld/minimserver:2.2
+#minimworld/minimserver:2.2
 
 
 
+xhongc/music_tag_web:latest
