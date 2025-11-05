@@ -22,4 +22,6 @@
 
 
 
-xhongc/music_tag_web:latest
+#xhongc/music_tag_web:latest
+
+deluan/navidrome:latest
