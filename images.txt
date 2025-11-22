@@ -22,8 +22,6 @@
 
 
 
-#xhongc/music_tag_web:latest
+xhongc/music_tag_web:latest
 
 #deluan/navidrome:latest
-
-gz1903/roonserver:2.53.1544
