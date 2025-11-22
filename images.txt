@@ -22,6 +22,8 @@
 
 
 
-xhongc/music_tag_web:latest
+#xhongc/music_tag_web:latest
 
 #deluan/navidrome:latest
+
+lscr.io/linuxserver/beets:latest
