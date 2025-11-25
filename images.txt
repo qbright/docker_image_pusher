@@ -26,4 +26,6 @@
 
 #deluan/navidrome:latest
 
-lscr.io/linuxserver/beets:latest
+#lscr.io/linuxserver/beets:latest
+
+steefdebruijn/docker-roonserver:latest
