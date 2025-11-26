@@ -28,4 +28,6 @@
 
 #lscr.io/linuxserver/beets:latest
 
-steefdebruijn/docker-roonserver:latest
+#steefdebruijn/docker-roonserver:latest
+
+theappgineer/roon-extension-manager:v1.x-standalone
